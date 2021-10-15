@@ -1,0 +1,13 @@
+const String currentLocation = "assets/images/current_location.png";
+const String delete = "assets/images/delete.png";
+const String person = "assets/images/person2.jpg";
+const String seats = "assets/images/right_arrow.png";
+const String seats2 = "assets/images/seat2.png";
+const String colordSeat = "assets/images/colored_seat.png";
+const String map = "assets/images/map.png";
+const String money = "assets/images/fa_money.png";
+const String location = "assets/images/location.png";
+const String destinationPinMarker = "assets/images/destination_pin_marker.png";
+const String question = "../../../assets/images/question.png";const String carImageIcon = 'assets/images/car_icon.png';
+const String rideCompleteImage = "assets/images/ride_complete_image.png";
+const String person2 = "assets/images/person.jpg";
