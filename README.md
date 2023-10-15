@@ -1,12 +1,16 @@
 # RideShare-app
 
+
 RideShare-app is a mobile application based on Flutter that aims to connect passengers and drivers for ride-sharing, reducing the overall cost for passengers. The app provides a platform where passengers can find available drivers heading towards their destination and request a ride.
 
+
 ## RideShare Passenger App
+
 
 The RideShare Passenger App allows passengers to request rides, search for available drivers, and manage their ride experience.
 
 ### Features
+
 
 - Passenger Registration: Passengers can create an account using their email address or social media accounts to access the app's features.
 
@@ -24,9 +28,11 @@ The RideShare Passenger App allows passengers to request rides, search for avail
 
 ## RideShare Driver App
 
+
 The RideShare Driver App is designed for drivers who want to offer rides and earn income.
 
 ### Features
+
 
 - Driver Registration: Drivers can register by providing their details, including their vehicle information, driving license, and other necessary documents.
 
@@ -39,6 +45,7 @@ The RideShare Driver App is designed for drivers who want to offer rides and ear
 - Notifications: The app sends push notifications to drivers regarding new ride requests, ride acceptance, ride cancellations, and other important updates.
 
 ## Installation
+
 
 To run the RideShare Passenger App or RideShare Driver App locally, follow these steps:
 
