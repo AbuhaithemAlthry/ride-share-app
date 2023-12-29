@@ -83,4 +83,10 @@ For detailed instructions on setting up Flutter and running the app on different
 
 Contributions to RideShare-app are welcome! If you find any bugs or have suggestions for new features, 
 feel free to open an issue or submit a pull request. Please follow the existing code style and guidelines when contributing.
+![image](https://github.com/AbuhaithemAlthry/ride-share-app/assets/107338221/a98cc951-b10c-4343-9aa2-a52da9b0cc68)
+![image](https://github.com/AbuhaithemAlthry/ride-share-app/assets/107338221/56510808-c48d-48f0-922b-995223905ddd)
+![image](https://github.com/AbuhaithemAlthry/ride-share-app/assets/107338221/2230141c-0b31-4d2f-8f4f-1436744548c9)
+![image](https://github.com/AbuhaithemAlthry/ride-share-app/assets/107338221/96e1e16f-a42d-4fae-8e3b-a90e1ccf1842)
+![image](https://github.com/AbuhaithemAlthry/ride-share-app/assets/107338221/0697ba34-cdd3-478c-908f-fa5be1c78ff8)
+![image](https://github.com/AbuhaithemAlthry/ride-share-app/assets/107338221/b7a1135c-6a28-4768-911f-de320475a2a0)
 
